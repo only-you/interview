@@ -16,7 +16,7 @@ Given [3, 2, 1, 4, 5], return [1, 2, 3, 4, 5].
 将数组进行划分(partition)，将比基准数大的元素都移至枢轴右边，将小于等于基准数的元素都移至枢轴左边。
 再对左右的子区间重复第二步的划分操作，直至每个子区间只有一个元素。
 ```
-
+![](https://github.com/only-you/-/blob/master/picture/quicksort.png)
 
 # 归并排序
 [blog](https://blog.csdn.net/jianyuerensheng/article/details/51262984)
@@ -32,7 +32,7 @@ Given [3, 2, 1, 4, 5], return [1, 2, 3, 4, 5].
 也就是说，归并排序是一种比较占内存，但却效率高且稳定的算法。
 ```
 
-
+![](https://github.com/only-you/-/blob/master/picture/mergesort.png)
 
 
 # 堆排序
@@ -53,5 +53,5 @@ Given [3, 2, 1, 4, 5], return [1, 2, 3, 4, 5].
 
 　堆排序是一种选择排序，整体主要由构建初始堆+交换堆顶元素和末尾元素并重建堆两部分组成。其中构建初始堆经推导复杂度为O(n)，在交换并重建堆的过程中，需交换n-1次，而重建堆的过程中，根据完全二叉树的性质，[log2(n-1),log2(n-2)...1]逐步递减，近似为nlogn。所以堆排序时间复杂度一般认为就是O(nlogn)级。
 ```
-
+![](https://github.com/only-you/-/blob/master/picture/heapsort.png)
 
