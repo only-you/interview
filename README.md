@@ -16,3 +16,5 @@
 [LeetCode 215 Kth Largest Element in an Array](https://github.com/only-you/-/blob/master/sort/kthLargest.md)
 
 [LintCode 532 Reverse Pairs](https://github.com/only-you/-/blob/master/sort/reversePairs.md)
+
+[LeetCode 315 Count of Smaller Numbers After Self](https://github.com/only-you/-/blob/master/sort/315.md)
