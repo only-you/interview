@@ -14,3 +14,5 @@
 [LeetCode 148 Sort List](https://github.com/only-you/-/blob/master/sort/sortList.md)
 
 [LeetCode 215 Kth Largest Element in an Array](https://github.com/only-you/-/blob/master/sort/kthLargest.md)
+
+[LintCode 532 Reverse Pairs](https://github.com/only-you/-/blob/master/sort/reversePairs.md)
