@@ -18,3 +18,7 @@
 [LintCode 532 Reverse Pairs](https://github.com/only-you/-/blob/master/sort/reversePairs.md)
 
 [LeetCode 315 Count of Smaller Numbers After Self](https://github.com/only-you/-/blob/master/sort/315.md)
+
+[LeetCode 207 Course Schedule](https://github.com/only-you/-/blob/master/sort/topoSort1.md)
+
+[LeetCode 210 Course Schedule II](https://github.com/only-you/-/blob/master/sort/topoSort2.md)
