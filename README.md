@@ -22,3 +22,8 @@
 [LeetCode 207 Course Schedule](https://github.com/only-you/-/blob/master/sort/topoSort1.md)
 
 [LeetCode 210 Course Schedule II](https://github.com/only-you/-/blob/master/sort/topoSort2.md)
+
+## 数组
+[LeetCode 28 Implement strStr()](https://github.com/only-you/-/blob/master/array/strStr.md)
+
+[LeetCode 1 Two Sum](https://github.com/only-you/-/blob/master/array/twoSum.md)
