@@ -27,3 +27,7 @@
 [LeetCode 28 Implement strStr()](https://github.com/only-you/-/blob/master/array/strStr.md)
 
 [LeetCode 1 Two Sum](https://github.com/only-you/-/blob/master/array/twoSum.md)
+
+[LeetCode 189 Rotate Array](https://github.com/only-you/-/blob/master/array/rotate.md)
+
+[LintCode 31 Partition Array](https://github.com/only-you/-/blob/master/array/partition.md)
