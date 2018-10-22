@@ -31,3 +31,7 @@
 [LeetCode 189 Rotate Array](https://github.com/only-you/-/blob/master/array/rotate.md)
 
 [LintCode 31 Partition Array](https://github.com/only-you/-/blob/master/array/partition.md)
+
+[LintCode 373 Partition Array by Odd and Even](https://github.com/only-you/-/blob/master/array/oddEven.md)
+
+[LintCode 144 Interleaving Positive and Negative Numbers](https://github.com/only-you/-/blob/master/array/interleave.md)
