@@ -37,3 +37,9 @@
 [LintCode 144 Interleaving Positive and Negative Numbers](https://github.com/only-you/-/blob/master/array/interleave.md)
 
 [LeetCode 54 Spiral Matrix](https://github.com/only-you/interview/blob/master/array/matrix.md)
+
+[LeetCode 59 Spiral Matrix II](https://github.com/only-you/interview/blob/master/array/matrixii.md)
+
+[LeetCode 53 Maximum Subarray](https://github.com/only-you/interview/blob/master/array/53.md)
+
+[LeetCode 152 Maximum Product Subarray](https://github.com/only-you/interview/blob/master/array/152.md)
