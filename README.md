@@ -43,3 +43,11 @@
 [LeetCode 53 Maximum Subarray](https://github.com/only-you/interview/blob/master/array/53.md)
 
 [LeetCode 152 Maximum Product Subarray](https://github.com/only-you/interview/blob/master/array/152.md)
+
+[LintCode 138 Subarray Sum](https://github.com/only-you/interview/blob/master/array/Subarray.md)
+
+[LintCode 139 Subarray Sum Closest](https://github.com/only-you/interview/blob/master/array/139.md)
+
+[LeetCode 392 Is Subsequence](https://github.com/only-you/interview/blob/master/array/392.md)
+
+[LeetCode 136 Single Number](https://github.com/only-you/interview/blob/master/array/Single.md)
