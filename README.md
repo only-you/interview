@@ -51,3 +51,11 @@
 [LeetCode 392 Is Subsequence](https://github.com/only-you/interview/blob/master/array/392.md)
 
 [LeetCode 136 Single Number](https://github.com/only-you/interview/blob/master/array/Single.md)
+
+[LeetCode 137 Single Number II](https://github.com/only-you/interview/blob/master/array/137.md)
+
+[LeetCode 260 Single Number III](https://github.com/only-you/interview/blob/master/array/260.md)
+
+[LeetCode 263 Ugly Number](https://github.com/only-you/interview/blob/master/array/263.md)
+
+[LeetCode 264 Ugly Number II](https://github.com/only-you/interview/blob/master/array/264.md)
