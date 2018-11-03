@@ -59,3 +59,7 @@
 [LeetCode 263 Ugly Number](https://github.com/only-you/interview/blob/master/array/263.md)
 
 [LeetCode 264 Ugly Number II](https://github.com/only-you/interview/blob/master/array/264.md)
+
+[LeetCode 295 Find Median from Data Stream——hard](https://github.com/only-you/interview/blob/master/array/295.md)
+
+[LeetCode 4 Median of Two Sorted Arrays——very hard](https://github.com/only-you/interview/blob/master/array/4.md)
