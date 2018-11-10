@@ -67,3 +67,7 @@
 [LeetCode 239 Sliding Window Maximum——hard](https://github.com/only-you/interview/blob/master/array/239.md)
 
 [LeetCode 480 Sliding Window Median——hard](https://github.com/only-you/interview/blob/master/array/480.md)
+
+[LintCode 130 Heapify——medium](https://github.com/only-you/interview/blob/master/array/130.md)
+
+[LeetCode 347 Top K Frequent Elements——medium](https://github.com/only-you/interview/blob/master/array/347.md)
