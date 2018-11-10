@@ -63,3 +63,7 @@
 [LeetCode 295 Find Median from Data Stream——hard](https://github.com/only-you/interview/blob/master/array/295.md)
 
 [LeetCode 4 Median of Two Sorted Arrays——very hard](https://github.com/only-you/interview/blob/master/array/4.md)
+
+[LeetCode 239 Sliding Window Maximum——hard](https://github.com/only-you/interview/blob/master/array/239.md)
+
+[LeetCode 480 Sliding Window Median——hard](https://github.com/only-you/interview/blob/master/array/480.md)
