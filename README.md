@@ -71,3 +71,5 @@
 [LintCode 130 Heapify——medium](https://github.com/only-you/interview/blob/master/array/130.md)
 
 [LeetCode 347 Top K Frequent Elements——medium](https://github.com/only-you/interview/blob/master/array/347.md)
+
+[LeetCode 128 Longest Consecutive Sequence——hard](https://github.com/only-you/interview/blob/master/array/128.md)
