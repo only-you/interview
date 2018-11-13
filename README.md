@@ -75,4 +75,13 @@
 [LeetCode 128 Longest Consecutive Sequence——hard](https://github.com/only-you/interview/blob/master/array/128.md)
 
 ## 双指针
+[LeetCode 15 3Sum——medium](https://github.com/only-you/interview/blob/master/twoPointers/15.md)
+
+[LeetCode 16 3Sum Closest——medium](https://github.com/only-you/interview/blob/master/twoPointers/16.md)
+
+[LeetCode 18 4Sum——medium](https://github.com/only-you/interview/blob/master/twoPointers/18.md)
+
+[LeetCode 42 Trapping Rain Water——hard](https://github.com/only-you/interview/blob/master/twoPointers/42.md)
+
+
 
