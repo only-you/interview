@@ -83,5 +83,10 @@
 
 [LeetCode 42 Trapping Rain Water——hard](https://github.com/only-you/interview/blob/master/twoPointers/42.md)
 
-
+## 链表
+```
+注意以下两点：
+1、当你预估到返回的链表头结点可能跟原有的链表头节点不一样时，建一个虚拟节点dummy，值任意，比如0，最后返回的新的链表头结点就是dummy.next，这一条非常好用！
+2、当操作一个链表节点的时候，时刻想一想要访问的链表节点是否为null
+```
 
