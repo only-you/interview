@@ -94,3 +94,11 @@
 [LeetCode 86 Partition List——medium](https://github.com/only-you/interview/blob/master/linkedList/86.md)
 
 [LeetCode 92 Reverse Linked List II——medium](https://github.com/only-you/interview/blob/master/linkedList/92.md)
+
+[LeetCode 83 Remove Duplicates from Sorted List——easy](https://github.com/only-you/interview/blob/master/linkedList/83.md)
+
+[LeetCode 82 Remove Duplicates from Sorted List II——medium](https://github.com/only-you/interview/blob/master/linkedList/82.md)
+
+[LeetCode 237 Delete Node in a Linked List——easy](https://github.com/only-you/interview/blob/master/linkedList/237.md)
+
+[LeetCode 19 Remove Nth Node From End of List——medium](https://github.com/only-you/interview/blob/master/linkedList/19.md)
