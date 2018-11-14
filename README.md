@@ -89,4 +89,8 @@
 1、当你预估到返回的链表头结点可能跟原有的链表头节点不一样时，建一个虚拟节点dummy，值任意，比如0，最后返回的新的链表头结点就是dummy.next，这一条非常好用！
 2、当操作一个链表节点的时候，时刻想一想要访问的链表节点是否为null
 ```
+[LeetCode 206 Reverse Linked List——easy](https://github.com/only-you/interview/blob/master/linkedList/206.md)
 
+[LeetCode 86 Partition List——medium](https://github.com/only-you/interview/blob/master/linkedList/86.md)
+
+[LeetCode 92 Reverse Linked List II——medium](https://github.com/only-you/interview/blob/master/linkedList/92.md)
