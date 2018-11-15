@@ -102,3 +102,11 @@
 [LeetCode 237 Delete Node in a Linked List——easy](https://github.com/only-you/interview/blob/master/linkedList/237.md)
 
 [LeetCode 19 Remove Nth Node From End of List——medium](https://github.com/only-you/interview/blob/master/linkedList/19.md)
+
+[LeetCode 61 Rotate List——medium](https://github.com/only-you/interview/blob/master/linkedList/61.md)
+
+[LeetCode 203 Remove Linked List Elements——easy](https://github.com/only-you/interview/blob/master/linkedList/203.md)
+
+[LeetCode 2 Add Two Numbers——medium](https://github.com/only-you/interview/blob/master/linkedList/2.md)
+
+[LeetCode 445 Add Two Numbers II——medium](https://github.com/only-you/interview/blob/master/linkedList/445.md)
