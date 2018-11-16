@@ -110,3 +110,11 @@
 [LeetCode 2 Add Two Numbers——medium](https://github.com/only-you/interview/blob/master/linkedList/2.md)
 
 [LeetCode 445 Add Two Numbers II——medium](https://github.com/only-you/interview/blob/master/linkedList/445.md)
+
+[LeetCode 328 Odd Even Linked List](https://github.com/only-you/interview/blob/master/linkedList/328.md)
+
+[LeetCode 234 Palindrome Linked List](https://github.com/only-you/interview/blob/master/linkedList/234.md)
+
+[LeetCode 24 Swap Nodes in Pairs](https://github.com/only-you/interview/blob/master/linkedList/24.md)
+
+[LeetCode 160 Intersection of Two Linked Lists](https://github.com/only-you/interview/blob/master/linkedList/160.md)
