@@ -118,3 +118,11 @@
 [LeetCode 24 Swap Nodes in Pairs](https://github.com/only-you/interview/blob/master/linkedList/24.md)
 
 [LeetCode 160 Intersection of Two Linked Lists](https://github.com/only-you/interview/blob/master/linkedList/160.md)
+
+[LeetCode 141 Linked List Cycle——easy](https://github.com/only-you/interview/blob/master/linkedList/141.md)
+
+[LeetCode 142 Linked List Cycle II——medium](https://github.com/only-you/interview/blob/master/linkedList/142.md)
+
+[LeetCode 21 Merge Two Sorted Lists——easy](https://github.com/only-you/interview/blob/master/linkedList/21.md)
+
+[LeetCode 23 Merge k Sorted Lists——hard](https://github.com/only-you/interview/blob/master/linkedList/23.md)
