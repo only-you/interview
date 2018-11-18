@@ -6,7 +6,7 @@
 
 ---
 
-## 排序
+## 排序（sort）
 [LintCode 463 Sort Integers](https://github.com/only-you/-/blob/master/sort/sort-integers.md)
 
 [LintCode 464 Sort Integers II](https://github.com/only-you/-/blob/master/sort/sort_integers2.md)
@@ -23,7 +23,7 @@
 
 [LeetCode 210 Course Schedule II](https://github.com/only-you/-/blob/master/sort/topoSort2.md)
 
-## 数组
+## 数组（array）
 [LeetCode 28 Implement strStr()](https://github.com/only-you/-/blob/master/array/strStr.md)
 
 [LeetCode 1 Two Sum](https://github.com/only-you/-/blob/master/array/twoSum.md)
@@ -74,7 +74,7 @@
 
 [LeetCode 128 Longest Consecutive Sequence——hard](https://github.com/only-you/interview/blob/master/array/128.md)
 
-## 双指针
+## 双指针（two pointers）
 [LeetCode 15 3Sum——medium](https://github.com/only-you/interview/blob/master/twoPointers/15.md)
 
 [LeetCode 16 3Sum Closest——medium](https://github.com/only-you/interview/blob/master/twoPointers/16.md)
@@ -83,7 +83,7 @@
 
 [LeetCode 42 Trapping Rain Water——hard](https://github.com/only-you/interview/blob/master/twoPointers/42.md)
 
-## 链表
+## 链表（linkedList）
 ```
 注意以下两点：
 1、当你预估到返回的链表头结点可能跟原有的链表头节点不一样时，建一个虚拟节点dummy，值任意，比如0，最后返回的新的链表头结点就是dummy.next，这一条非常好用！
