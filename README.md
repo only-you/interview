@@ -126,3 +126,11 @@
 [LeetCode 21 Merge Two Sorted Lists——easy](https://github.com/only-you/interview/blob/master/linkedList/21.md)
 
 [LeetCode 23 Merge k Sorted Lists——hard](https://github.com/only-you/interview/blob/master/linkedList/23.md)
+
+[LeetCode 138 Copy List with Random Pointer——medium](https://github.com/only-you/interview/blob/master/linkedList/138.md)
+
+[LeetCode 143 Reorder List——medium](https://github.com/only-you/interview/blob/master/linkedList/143.md)
+
+[LeetCode 25 Reverse Nodes in k-Group——hard](https://github.com/only-you/interview/blob/master/linkedList/25.md)
+
+[LeetCode 146 LRU Cache——hard](https://github.com/only-you/interview/blob/master/linkedList/146.md)
