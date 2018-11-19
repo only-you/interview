@@ -141,3 +141,10 @@
 1、start 、end在while循环的条件、到底是start<end、还是start<=end；要仔细举例确认
 2、还有mid值的计算 mid = start + (end-start)/2; 有时候为了跳出循环；可以 mid = start + (end-start)/2 + 1;
 ```
+[LeetCode 35 Search Insert Position——easy](https://github.com/only-you/interview/blob/master/binarySearch/35.md)
+
+[LeetCode 34 Find First and Last Position of Element in Sorted Array——medium](https://github.com/only-you/interview/blob/master/binarySearch/34.md)
+
+[LeetCode 278 First Bad Version——easy](https://github.com/only-you/interview/blob/master/binarySearch/278.md)
+
+[LeetCode 162 Find Peak Element——medium](https://github.com/only-you/interview/blob/master/binarySearch/162.md)
