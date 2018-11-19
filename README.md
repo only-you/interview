@@ -136,3 +136,8 @@
 [LeetCode 146 LRU Cache——hard](https://github.com/only-you/interview/blob/master/linkedList/146.md)
 
 ## 二分（binary search）
+```
+需要注意的点有：
+1、start 、end在while循环的条件、到底是start<end、还是start<=end；要仔细举例确认
+2、还有mid值的计算 mid = start + (end-start)/2; 有时候为了跳出循环；可以 mid = start + (end-start)/2 + 1;
+```
