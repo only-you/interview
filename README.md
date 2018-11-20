@@ -148,3 +148,11 @@
 [LeetCode 278 First Bad Version——easy](https://github.com/only-you/interview/blob/master/binarySearch/278.md)
 
 [LeetCode 162 Find Peak Element——medium](https://github.com/only-you/interview/blob/master/binarySearch/162.md)
+
+[LeetCode 154 Find Minimum in Rotated Sorted Array II——hard](https://github.com/only-you/interview/blob/master/binarySearch/154.md)
+
+[LeetCode 153 Find Minimum in Rotated Sorted Array——medium](https://github.com/only-you/interview/blob/master/binarySearch/153.md)
+
+[LeetCode 240 Search a 2D Matrix II——medium](https://github.com/only-you/interview/blob/master/binarySearch/240.md)
+
+[LeetCode 74 Search a 2D Matrix——medium](https://github.com/only-you/interview/blob/master/binarySearch/74.md)
