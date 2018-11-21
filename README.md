@@ -166,3 +166,10 @@
 [LeetCode 4 Median of Two Sorted Arrays](https://github.com/only-you/interview/blob/master/array/4.md)
 
 ## 栈（stack）
+[LeetCode 155 Min Stack——easy](https://github.com/only-you/interview/blob/master/stack/155.md)
+
+[LeetCode 232 Implement Queue using Stacks——easy](https://github.com/only-you/interview/blob/master/stack/232.md)
+
+[LeetCode 225 Implement Stack using Queues——easy](https://github.com/only-you/interview/blob/master/stack/225.md)
+
+[	LeetCode 84 Largest Rectangle in Histogram——hard](https://github.com/only-you/interview/blob/master/stack/84.md)
