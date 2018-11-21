@@ -156,3 +156,11 @@
 [LeetCode 240 Search a 2D Matrix II——medium](https://github.com/only-you/interview/blob/master/binarySearch/240.md)
 
 [LeetCode 74 Search a 2D Matrix——medium](https://github.com/only-you/interview/blob/master/binarySearch/74.md)
+
+[LeetCode 33 Search in Rotated Sorted Array——medium](https://github.com/only-you/interview/blob/master/binarySearch/33.md)
+
+[LeetCode 81 Search in Rotated Sorted Array II——medium](https://github.com/only-you/interview/blob/master/binarySearch/81.md)
+
+[LeetCode 378 Kth Smallest Element in a Sorted Matrix——medium](https://github.com/only-you/interview/blob/master/binarySearch/378.md)
+
+[LeetCode 4 Median of Two Sorted Arrays](https://github.com/only-you/interview/blob/master/array/4.md)
