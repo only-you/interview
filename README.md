@@ -172,4 +172,10 @@
 
 [LeetCode 225 Implement Stack using Queues——easy](https://github.com/only-you/interview/blob/master/stack/225.md)
 
-[	LeetCode 84 Largest Rectangle in Histogram——hard](https://github.com/only-you/interview/blob/master/stack/84.md)
+[LeetCode 84 Largest Rectangle in Histogram——hard](https://github.com/only-you/interview/blob/master/stack/84.md)
+
+[LeetCode 394 Decode String——medium](https://github.com/only-you/interview/blob/master/stack/394.md)
+
+[LeetCode 85 Maximal Rectangle——hard](https://github.com/only-you/interview/blob/master/stack/85.md)
+
+## 广度优先搜索（BFS）
