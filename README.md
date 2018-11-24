@@ -185,6 +185,12 @@
 
 [LeetCode 107 Binary Tree Level Order Traversal II——easy](https://github.com/only-you/interview/blob/master/bfs/107.md)
 
-
 ## 深度优先搜索（DFS）
 [LeetCode 200 Number of Islands——medium](https://github.com/only-you/interview/blob/master/dfs/200.md)
+
+[LeetCode 144 Binary Tree Preorder Traversal——medium](https://github.com/only-you/interview/blob/master/dfs/144.md)
+
+[LeetCode 94 Binary Tree Inorder Traversal——medium](https://github.com/only-you/interview/blob/master/dfs/94.md)
+
+[LeetCode 145 Binary Tree Postorder Traversal——hard](https://github.com/only-you/interview/blob/master/dfs/145.md)
+
