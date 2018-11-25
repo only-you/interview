@@ -194,3 +194,10 @@
 
 [LeetCode 145 Binary Tree Postorder Traversal——hard](https://github.com/only-you/interview/blob/master/dfs/145.md)
 
+[LeetCode 105 Construct Binary Tree from Preorder and Inorder Traversal——medium](https://github.com/only-you/interview/blob/master/dfs/105.md)
+
+[LeetCode 106 Construct Binary Tree from Inorder and Postorder Traversal——medium](https://github.com/only-you/interview/blob/master/dfs/106.md)
+
+[LeetCode 110 Balanced Binary Tree——easy](https://github.com/only-you/interview/blob/master/dfs/110.md)
+
+[LeetCode 98 Validate Binary Search Tree——medium](https://github.com/only-you/interview/blob/master/dfs/98.md)
