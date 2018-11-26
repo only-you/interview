@@ -201,3 +201,11 @@
 [LeetCode 110 Balanced Binary Tree——easy](https://github.com/only-you/interview/blob/master/dfs/110.md)
 
 [LeetCode 98 Validate Binary Search Tree——medium](https://github.com/only-you/interview/blob/master/dfs/98.md)
+
+[LeetCode 236 Lowest Common Ancestor of a Binary Tree——medium](https://github.com/only-you/interview/blob/master/dfs/236.md)
+
+[LeetCode 104 Maximum Depth of Binary Tree——easy](https://github.com/only-you/interview/blob/master/dfs/104.md)
+
+[LeetCode 111 Minimum Depth of Binary Tree——easy](https://github.com/only-you/interview/blob/master/dfs/111.md)
+
+[LeetCode 257 Binary Tree Paths——easy](https://github.com/only-you/interview/blob/master/dfs/257.md)
