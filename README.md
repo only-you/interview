@@ -217,3 +217,11 @@
 [LeetCode 437 Path Sum III——easy](https://github.com/only-you/interview/blob/master/dfs/437.md)
 
 [LeetCode 114 Flatten Binary Tree to Linked List——medium](https://github.com/only-you/interview/blob/master/dfs/114.md)
+
+[LeetCode 101 Symmetric Tree——easy](https://github.com/only-you/interview/blob/master/dfs/101.md)
+
+[LintCode 375 Clone Binary Tree——easy](https://github.com/only-you/interview/blob/master/dfs/375.md)
+
+[LintCode 595 Binary Tree Longest Consecutive Sequence——easy](https://github.com/only-you/interview/blob/master/dfs/595.md)
+
+[LintCode 614 Binary Tree Longest Consecutive Sequence II——medium](https://github.com/only-you/interview/blob/master/dfs/614.md)
