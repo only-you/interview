@@ -225,3 +225,11 @@
 [LintCode 595 Binary Tree Longest Consecutive Sequence——easy](https://github.com/only-you/interview/blob/master/dfs/595.md)
 
 [LintCode 614 Binary Tree Longest Consecutive Sequence II——medium](https://github.com/only-you/interview/blob/master/dfs/614.md)
+
+[LeetCode 572 Subtree of Another Tree——easy](https://github.com/only-you/interview/blob/master/dfs/572.md)
+
+[leetcode 226. Invert Binary Tree——easy](https://github.com/only-you/interview/blob/master/dfs/226.md)
+
+[LeetCode 124 Binary Tree Maximum Path Sum——hard](https://github.com/only-you/interview/blob/master/dfs/124.md)
+
+[LeetCode 109 Convert Sorted List to Binary Search Tree——medium](https://github.com/only-you/interview/blob/master/dfs/109.md)
