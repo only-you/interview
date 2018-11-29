@@ -233,3 +233,11 @@
 [LeetCode 124 Binary Tree Maximum Path Sum——hard](https://github.com/only-you/interview/blob/master/dfs/124.md)
 
 [LeetCode 109 Convert Sorted List to Binary Search Tree——medium](https://github.com/only-you/interview/blob/master/dfs/109.md)
+
+[LintCode 378 Convert Binary Search Tree to Doubly Linked List——medium](https://github.com/only-you/interview/blob/master/dfs/378.md)
+
+[LeetCode 494 Target Sum——medium](https://github.com/only-you/interview/blob/master/dfs/494.md)
+
+[LeetCode 78 Subsets——medium](https://github.com/only-you/interview/blob/master/dfs/78.md)
+
+[LeetCode 90 Subsets II——medium](https://github.com/only-you/interview/blob/master/dfs/90.md)
