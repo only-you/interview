@@ -236,8 +236,19 @@
 
 [LintCode 378 Convert Binary Search Tree to Doubly Linked List——medium](https://github.com/only-you/interview/blob/master/dfs/378.md)
 
+### 回溯法（backtracking）
 [LeetCode 494 Target Sum——medium](https://github.com/only-you/interview/blob/master/dfs/494.md)
 
 [LeetCode 78 Subsets——medium](https://github.com/only-you/interview/blob/master/dfs/78.md)
 
 [LeetCode 90 Subsets II——medium](https://github.com/only-you/interview/blob/master/dfs/90.md)
+
+[LeetCode 39 Combination Sum——medium](https://github.com/only-you/interview/blob/master/dfs/39.md)
+
+[LeetCode 40 Combination Sum II——medium](https://github.com/only-you/interview/blob/master/dfs/40.md)
+
+[LeetCode 46 Permutations——medium](https://github.com/only-you/interview/blob/master/dfs/46.md)
+
+[LeetCode 47 Permutations II——medium](https://github.com/only-you/interview/blob/master/dfs/47.md)
+
+[LeetCode 131 Palindrome Partitioning——medium](https://github.com/only-you/interview/blob/master/dfs/131.md)
