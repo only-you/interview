@@ -252,3 +252,12 @@
 [LeetCode 47 Permutations II——medium](https://github.com/only-you/interview/blob/master/dfs/47.md)
 
 [LeetCode 131 Palindrome Partitioning——medium](https://github.com/only-you/interview/blob/master/dfs/131.md)
+
+## 动态规划（dynamic programming）
+[LeetCode 70 Climbing Stairs——easy](https://github.com/only-you/interview/blob/master/dynamicProgramming/70.md)
+
+[LeetCode 62 Unique Paths——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/62.md)
+
+[LeetCode 63 Unique Paths II——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/63.md)
+
+[LeetCode 64 Minimum Path Sum——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/64.md)
