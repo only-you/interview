@@ -261,3 +261,11 @@
 [LeetCode 63 Unique Paths II——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/63.md)
 
 [LeetCode 64 Minimum Path Sum——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/64.md)
+
+[LeetCode 120 Triangle——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/120.md)
+
+[LeetCode 198 House Robber——easy](https://github.com/only-you/interview/blob/master/dynamicProgramming/198.md)
+
+[	LeetCode 213 House Robber II——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/213.md)
+
+[LeetCode 279 Perfect Squares——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/279.md)
