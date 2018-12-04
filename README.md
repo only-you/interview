@@ -269,3 +269,11 @@
 [	LeetCode 213 House Robber II——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/213.md)
 
 [LeetCode 279 Perfect Squares——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/279.md)
+
+[LeetCode 221 Maximal Square——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/221.md)
+
+[LeetCode 300 Longest Increasing Subsequence——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/300.md)
+
+[LeetCode 5 Longest Palindromic Substring——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/5.md)
+
+[LeetCode 115 Distinct Subsequences——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/115.md)
