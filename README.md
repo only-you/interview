@@ -277,3 +277,11 @@
 [LeetCode 5 Longest Palindromic Substring——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/5.md)
 
 [LeetCode 115 Distinct Subsequences——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/115.md)
+
+[LeetCode 322 Coin Change——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/322.md)
+
+[LeetCode 354 Russian Doll Envelopes——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/354.md)
+
+[LeetCode 403 Frog Jump——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/403.md)
+
+[LeetCode 72 Edit Distance——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/72.md)
