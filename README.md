@@ -285,3 +285,13 @@
 [LeetCode 403 Frog Jump——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/403.md)
 
 [LeetCode 72 Edit Distance——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/72.md)
+
+[LeetCode 368 Largest Divisible Subset——medium](https://github.com/only-you/interview/blob/master/dynamicProgramming/368.md)
+
+[LeetCode 10 Regular Expression Matching——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/10.md)
+
+[LeetCode 329 Longest Increasing Path in a Matrix——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/329.md)
+
+[LeetCode 97 Interleaving String——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/97.md)
+
+## 贪心（greedy）
