@@ -295,3 +295,7 @@
 [LeetCode 97 Interleaving String——hard](https://github.com/only-you/interview/blob/master/dynamicProgramming/97.md)
 
 ## 贪心（greedy）
+```
+贪心算法考的非常少，面试中非常少见，因为贪心算法的数学证明是很难的，短时间你不太可能证明出来，而且面试官也大概率证不出来，只有机试中才小概率会出贪心算法题，比如头条这种。所以做了以下这几个题就行。具体原因可以看一下这个链接：https://www.jiuzhang.com/qa/2100/
+```
+
