@@ -298,4 +298,10 @@
 ```
 贪心算法考的非常少，面试中非常少见，因为贪心算法的数学证明是很难的，短时间你不太可能证明出来，而且面试官也大概率证不出来，只有机试中才小概率会出贪心算法题，比如头条这种。所以做了以下这几个题就行。具体原因可以看一下这个链接：https://www.jiuzhang.com/qa/2100/
 ```
+[LintCode 46 Majority Element——easy](https://github.com/only-you/interview/blob/master/greedy/46.md)
 
+[LeetCode 55 Jump Game——medium](https://github.com/only-you/interview/blob/master/greedy/55.md)
+
+[LeetCode 45  Jump Game II——hard](https://github.com/only-you/interview/blob/master/greedy/45.md)
+
+[LeetCode 134 Gas Station——medium](https://github.com/only-you/interview/blob/master/greedy/134.md)
