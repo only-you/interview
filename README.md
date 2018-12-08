@@ -305,3 +305,15 @@
 [LeetCode 45  Jump Game II——hard](https://github.com/only-you/interview/blob/master/greedy/45.md)
 
 [LeetCode 134 Gas Station——medium](https://github.com/only-you/interview/blob/master/greedy/134.md)
+
+## 数学（math）
+```
+一些trick题，考察数学和逻辑推理
+```
+[LintCode 1 A + B Problem——easy](https://github.com/only-you/interview/blob/master/math/1.md)
+
+[LintCode 365 Count 1 in Binary——easy](https://github.com/only-you/interview/blob/master/math/365.md)
+
+[LintCode 3 Digit Counts——medium](https://github.com/only-you/interview/blob/master/math/3.md)
+
+[LintCode 379 Reorder array to construct the minimum number——medium](https://github.com/only-you/interview/blob/master/math/379.md)
